@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UstoNote</string>
+    <string name="Yes">Oui</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="Adding_choisir">Veuillez choisir une image concernant l\'affichage</string>
+    <string name="valider_mon_mail">VALIDER MON MAIL</string>
+    <string name="NoData">Pardon ! je ne trouve aucune donnée</string>
+    <string name="search">Rechercher</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="hint_password">Mot de pass</string>
+    <string name="btn_link_to_register">Pas un membre? S\'inscrire maintenant.</string>
+    <string name="btn_logout">DECONNEXION</string>
+    <string name="btn_login">CONNEXION</string>
+    <string name="loading">"Chargement… "</string>
+    <string name="AlertDialogue_Title">Confirmation de suppression</string>
+    <string name="choisir">CHOISIRE !</string>
+    <string name="cancel">Annuler</string>
+    <string name="AlertDialogue_Message">Êtes-vous sûr de vouloir supprimer cette vue?</string>
+    <string name="apply">"Appliquer "</string>
+    <string name="btn_link_to_login">Déjà enregistré! Me connecter.</string>
+    <string name="all_affichage">Tout les affichages</string>
+    <string name="btn_add">"AJOUTER "</string>
+    <string name="hint_name">Nom et Prenom</string>
+    <string name="btn_view">LIST D\'AFFICHAGE</string>
+    <string name="SelectSection">Sélectionnez la section</string>
+    <string name="SelectGroupe">Sélectionnez le groupe</string>
+    <string name="SelectGrade">Sélectionnez le grade</string>
+
+
+    <string-array name="year">
+        <item>Sélectionnez le grade</item>
+
+        <item>Licence 1</item>
+        <item>Licence 2</item>
+        <item>Licence 3</item>
+        <item>Master 1</item>
+        <item>Master 2</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>Sélectionnez la section</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string-array name="Groupe">
+        <item>Sélectionnez le groupe</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="sort_by">
+        <item>Sort by date</item>
+        <item>Sort by grade</item>
+    </string-array>
+    <string name="All">Tout</string>
+    <string name="email_sentFail">Échec de l\'envoi du courrier électronique de vérification.</string>
+    <string name="email_sent">Email de vérification envoyé à</string>
+</resources>
